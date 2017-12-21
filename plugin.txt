@@ -1,0 +1,6 @@
+There are three plugin for jQuery they are:
+1. script plugin
+	a)   jquery-1.11.3.min.js
+	b)   jquery-ui.min.js
+2. css plugin
+	a) jquery-ui.min.css
